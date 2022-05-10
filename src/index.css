@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(127, 125, 178);
+}
+.txt{
+    width: 450px;
+    height: 450px;
+    position: relative;
+    top: 100px;
+    left: 150px;
+    background-color: rgb(181, 176, 176);
+    font-size:xx-large ;
+}
+.box{
+    width: 450px;
+    height: 450px;
+    border: 2px solid black;
+    position: relative;
+    top: 100px;
+    left: 250px;
+    font-size: xx-large;
+}
+.bb{
+    position: relative;
+    top: 160px;
+    left: 300px;
+}
+.aa{
+    position: relative;
+    top: 100px;
+    left: 800px;
+}
